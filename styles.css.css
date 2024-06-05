@@ -1,0 +1,6 @@
+body {
+    background-image: url('https://img.freepik.com/free-photo/flat-lay-clean-office-desk_23-2148219267.jpg'); /* Replace with the actual image URL */
+    background-size: cover; /* Makes the background image cover the entire page */
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat; /* Prevents the background image from repeating */
+}
